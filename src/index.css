@@ -1,3 +1,11 @@
+.main{
+    margin-top: 20vh;
+}
+
+#isDay{
+    margin-top: 5vh;
+}
+
 .switch{
     position: relative;
     display: inline-block;
